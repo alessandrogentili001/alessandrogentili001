@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi Guys 
 
-<!--
-**alessandrogentili001/alessandrogentili001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is Alessandro, from Italy.
 
-Here are some ideas to get you started:
+I hold a bachelor in mathematics, plus a master in artificial intelligence from the  University of Bologna.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a researcher at CINECA, the italian supercomputing center, where I join the fantastic CFD team.
+
+I am mainly focusing on reasearching novel ways for in-situ compression of high fidelity CFD simulation data based on physics-informed convolutional autoencoders.  
+
+Besides the research routine, I am deeply passionate about startups and venture capital. 
+
+Drop a message if you look for some collaboration :)
